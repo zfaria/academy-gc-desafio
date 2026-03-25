@@ -64,9 +64,12 @@ Plataforma gamificada da **Academy GC** - A primeira formação gamificada em En
 ## 📁 Estrutura do Projeto
 ```
 📦 academy-gc-bigquery-desafio
-├── 📄 main.sql          # Script SQL completo (CREATE + SELECT)
-├── 📄 README.md         # Documentação do projeto
-└── 📸 screenshots/      # Evidências de execução (opcional)
+├── 📄 main.sql              # Script SQL completo (CREATE + SELECT)
+├── 📄 README.md             # Documentação do projeto
+└── 📂 assets/               # Evidências de execução
+    ├── 01-criacao-tabela.png
+    ├── 02-schema-particionado.png
+    └── 03-resultado-query.png
 ```
 
 ## 🔍 Detalhamento Técnico
