@@ -140,3 +140,21 @@ Após execução da análise:
 ## 🏅 Certificação
 
 Desafio concluído com sucesso na **Academy GC** - Plataforma Gamificada de Data Engineering.
+
+
+## 📸 Evidências de Execução
+
+### 1. Criação da Tabela Particionada (Statement 1)
+Query SQL criando a tabela com `PARTITION BY` e `OPTIONS`:
+
+![Criação da Tabela](assets/01-criacao-tabela.png)
+
+### 2. Validação do Particionamento
+Confirmação de que a tabela está particionada por data:
+
+![Schema Particionado](assets/02-schema-particionado.png)
+
+### 3. Resultado da Consulta Analítica (Statement 2)
+Execução da query analítica com agregações por região:
+
+![Resultado da Query](assets/03-resultado-query.png)
