@@ -164,4 +164,4 @@ Execução da query analítica com agregações por região:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto é licenciado sob a **MIT License** — veja [LICENSE](LICENSE) para detalhes.
