@@ -161,3 +161,7 @@ Confirmação de que a tabela está particionada por data:
 Execução da query analítica com agregações por região:
 
 ![Resultado da Query](assets/03-resultado-query.png)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
